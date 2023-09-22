@@ -3,7 +3,7 @@
 - Contact me on [LinkedIn](www.linkedin.com/in/jennifer-gallagher-dev)
   
 ## Skills:
-- Frontend Technologies: HTML, CSS, SASS, Javascript, React## Projects:
+- Frontend Technologies: HTML, CSS, SASS, Javascript, React
 - Backend Technologies: Python, Node.js, Django, MongoDB, Mongoose, PostgreSQL, Express
 
 ## Projects
