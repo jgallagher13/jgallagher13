@@ -3,8 +3,8 @@
 - Contact me on [LinkedIn](www.linkedin.com/in/jennifer-gallagher-dev)
   
 ## Skills:
-- Frontend Technologies: HTML, CSS, SASS, Javascript, React
-- Backend Technologies: Python, Node.js, Django, MongoDB, Mongoose, PostgreSQL, Express
+- Frontend Technologies: HTML, CSS, SASS, Javascript, React, Materialize, Bootstrap
+- Backend Technologies: Python, Node.js, Django, MongoDB, Mongoose, PostgreSQL, Express, AWS
 
 ## Projects
 ## Star Wars Checkers
@@ -18,3 +18,9 @@
 - Technologies Used: HTML, CSS, JavaScript, Node, Express, EJS, MongoDB, Mongoose, IGDB 3rd party API, OAuth, render.com
 - [Repository](https://github.com/jgallagher13/triforce-tracker)
 - [Live Site](https://triforce-tracker.onrender.com)
+
+## TrailTrekker
+- A full CRUD Django application that allows users to track their hikes, pair-programming with two Software Developers
+- Technologies Used: HTML, CSS, JavaScript, Python, Django, AWS, Materialize
+- [Repository](https://github.com/jgallagher13/trailtrekker)
+- [Live Site](https://trailtrekker-gfb2.onrender.com/)
