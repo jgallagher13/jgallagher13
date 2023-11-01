@@ -24,3 +24,9 @@
 - Technologies Used: HTML, CSS, JavaScript, Python, Django, AWS, Materialize
 - [Repository](https://github.com/jgallagher13/trailtrekker)
 - [Live Site](https://trailtrekker-gfb2.onrender.com/)
+
+## Annoying Socrates
+- A MERN stack application tailored for students, fostering Socratic-style philosophical discussions
+- Technologies Used: HTML, CSS, JavaScript, Mongoose, MongoDB, Express, React, Quotable API
+- [Repository](https://github.com/jgallagher13/annoyingSocratesClient)
+- [Live Site](https://annoyingsocratesclient.onrender.com/)
