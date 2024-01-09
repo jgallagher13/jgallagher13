@@ -4,7 +4,7 @@
   
 ## Skills:
 - Frontend Technologies: HTML, CSS, SASS, Javascript, React, Materialize, Bootstrap
-- Backend Technologies: Python, Node.js, Django, MongoDB, Mongoose, PostgreSQL, Express, AWS
+- Backend Technologies: Python, Node.js, Django, MongoDB, Mongoose, PostgreSQL, Express, AWS, Ruby on Rails
 
 ## Projects
 ## Star Wars Checkers
